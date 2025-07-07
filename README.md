@@ -100,6 +100,7 @@ This is a **non-collaborative portfolio project** intended for professional revi
 ```bash
 pip install -r requirements.txt
 
+---
 ## 📬 Contact
 
 For project insights or review requests:
@@ -110,7 +111,7 @@ For project insights or review requests:
 
 ---
 
-## 🚀 Recruiter Buttons
+## 🚀 Quick Access
 
 [![View Dashboard in Power BI](https://img.shields.io/badge/View-Dashboard-blue?logo=PowerBI)](https://powerbi.microsoft.com)  
 [![Explore Notebook in Jupyter](https://img.shields.io/badge/Explore-Notebook-yellow?logo=Jupyter)](https://jupyter.org)  
