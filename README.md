@@ -40,6 +40,28 @@ This project blends technical market data with NLP-based sentiment scoring to de
 - Weighted into final risk scores to reflect public mood alongside technical signals
 
 ---
+## 📌 Tech Stack
+
+| Component        | Tool/Library              |
+|------------------|---------------------------|
+| Data Extraction  | `yfinance`, `pandas`      |
+| Web Scraping     | `requests`, `BeautifulSoup4` (`bs4`) |
+| Modeling         | `scikit-learn`, `xgboost` |
+| NLP Sentiment    | `vaderSentiment`, `bs4`   |
+| Visualization    | **Power BI Desktop**      |
+
+---
+
+## 🖥️ Dashboard Features
+
+Built with **Power BI**, this dashboard highlights:
+
+- 📈 **Risk alerts via sentiment-weighted composite scores**
+- 📉 **Historical trend overlays and crash probability spikes**
+- 🎛️ **Slicers to explore specific stock setups, timelines, and market reactions**
+- ⚙️ **Designed for scalability** with incremental refreshes—dashboard stays current with market changes and latest sentiment signals.
+
+---
 
 ## 📁 Repository Contents
 
@@ -52,3 +74,44 @@ This project blends technical market data with NLP-based sentiment scoring to de
 ├── requirements.txt                               # Package dependencies
 ├── LICENSE.md                                     # Attribution & usage guidelines
 ├── README.md                                      # Project overview
+
+---
+
+## 🚫 License & Usage
+
+This is a **non-collaborative portfolio project** intended for professional review only.
+
+> 🔒 Redistribution, reproduction, or code reuse without **explicit credit** is prohibited. Please respect the creative intent and ownership.
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+  
+[📄 View LICENSE.md](./LICENSE.md)
+
+---
+
+## 🧪 Setup Instructions
+
+1. **Clone repo locally**
+2. **Run each notebook in sequence**:
+   - `01_StockData_Modeling_XGBoost.ipynb`
+   - `02_NewsScraping_SentimentScoring.ipynb`
+3. **Open dashboard from `dashboard_assets/` in Power BI**
+
+```bash
+pip install -r requirements.txt
+
+## 📬 Contact
+
+For project insights or review requests:
+
+**Ramya Vijayalayan**  
+📧 [vrmya2510@gmail.com]  
+🔗 [LinkedIn Profile](https://linkedin.com/in/ramya-vijayalayan-9a51b2289)
+
+---
+
+## 🚀 Recruiter Buttons
+
+[![View Dashboard in Power BI](https://img.shields.io/badge/View-Dashboard-blue?logo=PowerBI)](https://powerbi.microsoft.com)  
+[![Explore Notebook in Jupyter](https://img.shields.io/badge/Explore-Notebook-yellow?logo=Jupyter)](https://jupyter.org)  
+[![License Info](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
