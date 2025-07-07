@@ -82,19 +82,6 @@ Built with **Power BI**, this dashboard highlights:
 ├── README.md                                      # Project overview
 ```
 ---
-
-## 🚫 License & Usage
-
-This is a **non-collaborative portfolio project** intended for professional review only.
-
-> 🔒 Redistribution, reproduction, or code reuse without **explicit credit** is prohibited. Please respect the creative intent and ownership.
-
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-  
-[📄 View LICENSE.md](./LICENSE.md)
-
----
-
 ## 🧪 Setup Instructions
 
 1. **Clone repo locally**
@@ -106,6 +93,17 @@ This is a **non-collaborative portfolio project** intended for professional revi
 ```bash
 pip install -r requirements.txt
 ```
+---
+## 📜 License & Usage
+
+This project is licensed under the **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License**.
+
+> 🔒 Redistribution, reproduction, or code reuse without **explicit credit** is prohibited. Please respect the creative intent and ownership.
+
+View full terms in [LICENSE.md](./LICENSE.md) or [on Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+© Ramya Vijayalayan, 2025
+
 ---
 ## 📬 Contact
 
