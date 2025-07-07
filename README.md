@@ -74,7 +74,7 @@ Built with **Power BI**, this dashboard highlights:
 ├── requirements.txt                               # Package dependencies
 ├── LICENSE.md                                     # Attribution & usage guidelines
 ├── README.md                                      # Project overview
-
+```
 ---
 
 ## 🚫 License & Usage
@@ -99,7 +99,7 @@ This is a **non-collaborative portfolio project** intended for professional revi
 
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 ## 📬 Contact
 
