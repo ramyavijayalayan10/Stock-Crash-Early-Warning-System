@@ -49,6 +49,12 @@ This project blends technical market data with NLP-based sentiment scoring to de
 | Modeling         | `scikit-learn`, `xgboost` |
 | NLP Sentiment    | `vaderSentiment`, `bs4`   |
 | Visualization    | **Power BI Desktop**      |
+---
+
+## 🚀 Quick Access
+
+[![View Dashboard in Power BI](https://img.shields.io/badge/View-Dashboard-blue?logo=PowerBI)](https://powerbi.microsoft.com)  
+[![Explore Notebook in Jupyter](https://img.shields.io/badge/Explore-Notebook-yellow?logo=Jupyter)](https://jupyter.org)  
 
 ---
 
@@ -109,10 +115,3 @@ For project insights or review requests:
 📧 [vrmya2510@gmail.com]  
 🔗 [LinkedIn Profile](https://linkedin.com/in/ramya-vijayalayan-9a51b2289)
 
----
-
-## 🚀 Quick Access
-
-[![View Dashboard in Power BI](https://img.shields.io/badge/View-Dashboard-blue?logo=PowerBI)](https://powerbi.microsoft.com)  
-[![Explore Notebook in Jupyter](https://img.shields.io/badge/Explore-Notebook-yellow?logo=Jupyter)](https://jupyter.org)  
-[![License Info](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
