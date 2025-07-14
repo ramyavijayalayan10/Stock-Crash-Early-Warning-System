@@ -4,10 +4,10 @@ A predictive alerting dashboard that identifies short-term signals (15–30 day 
 
 [![Power BI Report](https://img.shields.io/badge/View-PowerBI-orange?logo=PowerBI)](https://powerbi.microsoft.com)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![yFinance](https://img.shields.io/badge/API-yFinance-purple)
-![Pandas](https://img.shields.io/badge/Library-Pandas-yellow?logo=pandas&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Technique-Web%20Scraping-blue)
 ![Beautiful Soup](https://img.shields.io/badge/Library-Beautiful%20Soup-green?logo=beautifulsoup&logoColor=white)
+![yFinance](https://img.shields.io/badge/API-yFinance-golden)
+![Pandas](https://img.shields.io/badge/Library-Pandas-yellow?logo=pandas&logoColor=white)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 > *This is a personal portfolio project created for skill demonstration purposes only. Not intended for commercial use or code redistribution.*
