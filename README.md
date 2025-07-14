@@ -1,6 +1,6 @@
 # 📉 Stock Crash Early Warning System
 
-A predictive alerting dashboard that identifies short-term signals (15–30 day horizon) indicative of potential market crashes—powered by XGBoost modeling and sentiment-based context from financial headlines.
+A predictive alerting system that identifies short-term signals (15–30 day horizon) indicative of potential market crashes—powered by XGBoost modeling and sentiment-based context from financial headlines.
 
 [![Power BI Report](https://img.shields.io/badge/View-PowerBI-yellow?logo=PowerBI)](https://powerbi.microsoft.com)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
