@@ -7,7 +7,7 @@ A predictive alerting system that identifies short-term signals (15–30 day hor
 ![Beautiful Soup](https://img.shields.io/badge/Library-Beautiful%20Soup-green?logo=beautifulsoup&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Technique-Web%20Scraping-blue)
 ![yFinance](https://img.shields.io/badge/API-yFinance-lightorange)
-![Sentiment Analysis](https://img.shields.io/badge/Task-Sentiment%20Analysis-lightblue)
+![Sentiment Analysis](https://img.shields.io/badge/Task-Sentiment%20Analysis-yellow)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 > *This is a personal portfolio project created for skill demonstration purposes only. Not intended for commercial use or code redistribution.*
