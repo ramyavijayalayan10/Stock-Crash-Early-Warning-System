@@ -48,7 +48,7 @@ This project blends technical market data with NLP-based sentiment scoring to de
 
 | Component        | Tool/Library              |
 |------------------|---------------------------|
-| Data Extraction  | `yfinance`, `pandas`      |
+| Data Extraction  | `yfinance`, `pandas`, `finviz`      |
 | Web Scraping     | `requests`, `BeautifulSoup4` (`bs4`) |
 | Modeling         | `scikit-learn`, `xgboost` |
 | NLP Sentiment    | `vaderSentiment`, `bs4`   |
