@@ -105,7 +105,7 @@ View full terms in [LICENSE.md](./LICENSE.md) or [on Creative Commons](https://c
 © Ramya Vijayalayan, 2025
 
 ---
-## 📬 Contact
+## 📬 Author & Contact Info
 
 For project insights or review requests:
 
