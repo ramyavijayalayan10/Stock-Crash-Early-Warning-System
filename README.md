@@ -16,7 +16,7 @@ A predictive alerting system that identifies short-term signals (15–30 day hor
 
 ## 🚀 Overview
 
-This project blends technical market data with NLP-based sentiment scoring to deliver a scalable **early warning system**. It identifies high-risk setups based on historical stock behavior, enriched by recent news sentiment to improve decision context.
+This project blends technical market data with NLP-based sentiment scoring to deliver a scalable **Early Warning System**. It identifies high-risk setups based on historical stock behavior, enriched by recent news sentiment to improve decision context.
 
 - 🔍 Historical pattern detection for 7 US stocks *(MAANG + Microsoft + Tesla)* and 3 Indian stocks *(Reliance, Infosys Ltd, HDFC Bank)*
 - 🧠 Machine Learning-driven crash prediction using technical indicators
