@@ -2,7 +2,7 @@
 
 A predictive alerting dashboard that identifies short-term signals (15–30 day horizon) indicative of potential market crashes—powered by XGBoost modeling and sentiment-based context from financial headlines.
 
-[![Power BI Report](https://img.shields.io/badge/View-PowerBI-lightorange?logo=PowerBI)](https://powerbi.microsoft.com)
+[![Power BI Report](https://img.shields.io/badge/View-PowerBI-yellow?logo=PowerBI)](https://powerbi.microsoft.com)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Library-Beautiful%20Soup-green?logo=beautifulsoup&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Technique-Web%20Scraping-blue)
