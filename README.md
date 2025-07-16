@@ -64,8 +64,8 @@ Alerts are triggered when:
 
 ## 🚀 Dashboard preview
 
-![Stock Crash Early Warning Alerting Dashboard](./dashboard-preview/Stock%20Crash%20Early%20Warning%20System)  
- 
+![Stock Crash Early Warning Alerting Dashboard](./dashboard-preview/Stock%20Crash%20Early%20Warning%20System%20Report)  
+> Refer to the Google Drive link in the Resume for actual Power BI report access 
 
 ---
 
