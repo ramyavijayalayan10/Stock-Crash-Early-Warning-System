@@ -62,10 +62,10 @@ Alerts are triggered when:
 | Visualization    | **Power BI Desktop**      |
 ---
 
-## 🚀 Quick Access
+## 🚀 Dashboard preview
 
-[![View Dashboard in Power BI](https://img.shields.io/badge/View-Dashboard-blue?logo=PowerBI)](https://powerbi.microsoft.com)  
-[![Explore Notebook in Jupyter](https://img.shields.io/badge/Explore-Notebook-yellow?logo=Jupyter)](https://jupyter.org)  
+![Stock Crash Early Warning Alerting Dashboard](./dashboard-preview/Stock%20Crash%20Early%20Warning%20System)  
+ 
 
 ---
 
