@@ -86,18 +86,7 @@ Built with **Power BI**, this dashboard highlights:
 ├── README.md                                      # Project overview
 ```
 ---
-## 🧪 Setup Instructions
 
-1. **Clone repo locally**
-2. **Run each notebook in sequence**:
-   - `01_StockData_Modeling_XGBoost.ipynb`
-   - `02_NewsScraping_SentimentScoring.ipynb`
-3. **Open dashboard from `dashboard_assets/` in Power BI**
-
-```bash
-pip install -r requirements.txt
-```
----
 ## 📜 License & Usage
 
 This project is licensed under the **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License**.
