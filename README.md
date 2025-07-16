@@ -43,6 +43,13 @@ This project blends technical market data with NLP-based sentiment scoring to de
 - Scored using `vaderSentiment.SentimentIntensityAnalyzer`
 - Weighted into final risk scores to reflect public mood alongside technical signals
 
+### 🚨 Alert Logic
+Alerts are triggered when:
+- Crash Probability ≥ 70%
+- Sentiment Score ≤ -0.5
+- Volume spike ≥ 2× average
+- Price drop ≥ 5% in 1 day”
+
 ---
 ## 📌 Tech Stack
 
