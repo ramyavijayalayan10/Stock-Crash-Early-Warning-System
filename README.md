@@ -86,7 +86,7 @@ Built with **Power BI**, this dashboard highlights:
 ├── python notebook scripts/
       ├──01_StockData_Modeling_XGBoost.ipynb        # Data collection + predictive modeling
       ├── 02_NewsScraping_SentimentScoring.ipynb    # News extraction + sentiment computation
-├── dashboard-preview/                              # Power BI files & reports
+├── dashboard-preview/                              # Power BI report snapshot
 ├── requirements.txt                               # Package dependencies
 ├── LICENSE.md                                     # Attribution & usage guidelines
 ├── README.md                                      # Project overview
