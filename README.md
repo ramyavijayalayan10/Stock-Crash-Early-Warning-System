@@ -62,11 +62,10 @@ Alerts are triggered when:
 | Visualization    | **Power BI Desktop**      |
 ---
 
-## 🚀 Dashboard preview
+## 🚀 Results preview
 
 ![Stock Crash Early Warning Alerting Dashboard](./dashboard-preview/Stock%20Crash%20Early%20Warning%20System%20Report)  
-> Refer to the Google Drive link in the Resume for actual Power BI report access 
-
+> For python scripts and dashboard access, refer to the link provided in the resume
 ---
 
 ## 🖥️ Dashboard Features
@@ -87,7 +86,7 @@ Built with **Power BI**, this dashboard highlights:
 ├── python notebook scripts/
       ├──01_StockData_Modeling_XGBoost.ipynb        # Data collection + predictive modeling
       ├── 02_NewsScraping_SentimentScoring.ipynb    # News extraction + sentiment computation
-├── dashboard_assets/                              # Power BI files & reports
+├── dashboard-preview/                              # Power BI files & reports
 ├── requirements.txt                               # Package dependencies
 ├── LICENSE.md                                     # Attribution & usage guidelines
 ├── README.md                                      # Project overview
