@@ -83,7 +83,11 @@ Built with **Power BI**, this dashboard highlights:
 
 ```bash
 Stock-Crash-Early-Warning-System/
-├── python notebook scripts/
+├── data_model/
+      ├──Crash_Prediction_Results.csv
+      ├──Daily_Sentiment_Data_for_Stocks.csv
+      ├──News_Headlines_Data.csv
+├── notebook_scripts/
       ├──01_StockData_Modeling_XGBoost.ipynb        # Data collection + predictive modeling
       ├── 02_NewsScraping_SentimentScoring.ipynb    # News extraction + sentiment computation
 ├── dashboard-preview/                              # Power BI report snapshot
