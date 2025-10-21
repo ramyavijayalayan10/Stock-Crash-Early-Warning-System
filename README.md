@@ -14,18 +14,18 @@ A predictive alerting system that identifies short-term signals (15–30 day hor
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project blends technical market data with NLP-based sentiment scoring to deliver a scalable **Early Warning System**. It identifies high-risk setups based on historical stock behavior, enriched by recent news sentiment to improve decision context.
 
-- 🔍 Historical pattern detection for 7 US stocks *(MAANG + Microsoft + Tesla)* and 3 Indian stocks *(Reliance, Infosys Ltd, HDFC Bank)* 
-- 🧠 Machine Learning-driven crash prediction using technical indicators
-- 📰 Real-time news scraping and sentiment scoring from **Finviz** and **Economic Times**
-- 📊 Fully interactive dashboard built in **Power BI** to visualize risk triggers and sentiment-weighted alerts
+-  Historical pattern detection for 7 US stocks *(MAANG + Microsoft + Tesla)* and 3 Indian stocks *(Reliance, Infosys Ltd, HDFC Bank)* 
+-  Machine Learning-driven crash prediction using technical indicators
+-  Real-time news scraping and sentiment scoring from **Finviz** and **Economic Times**
+-  Fully interactive dashboard built in **Power BI** to visualize risk triggers and sentiment-weighted alerts
 
 ---
 
-## 🧠 Methodology Highlights
+##  Methodology Highlights
 
 - Stock data collected via `yfinance` spanning **5 years**
 - Modeled short-term market inflection points using:
@@ -37,13 +37,13 @@ This project blends technical market data with NLP-based sentiment scoring to de
 
 > Instead of predicting a literal crash for "today," the system evaluates if current conditions **resemble historical setups** that **typically preceded downturns within 15–30 days**.
 
-### 📰 Sentiment Module
+### Sentiment Module
 
 - Headlines fetched for each stock from curated sources
 - Scored using `vaderSentiment.SentimentIntensityAnalyzer`
 - Weighted into final risk scores to reflect public mood alongside technical signals
 
-### 🚨 Alert Logic
+### Alert Logic
 Alerts are triggered when:
 - Crash Probability ≥ 70%
 - Sentiment Score ≤ -0.5
@@ -51,7 +51,7 @@ Alerts are triggered when:
 - Price drop ≥ 5% in 1 day”
 
 ---
-## 📌 Tech Stack
+## Tech Stack
 
 | Component        | Tool/Library              |
 |------------------|---------------------------|
@@ -68,7 +68,7 @@ Alerts are triggered when:
 > For python scripts and dashboard access, refer to the **google drive** link provided in the **resume**
 ---
 
-## 🖥️ Dashboard Features
+## Dashboard Features
 
 Built with **Power BI**, this dashboard highlights:
 
@@ -79,10 +79,10 @@ Built with **Power BI**, this dashboard highlights:
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 ```bash
-📦 Stock-Crash-Early-Warning-System/
+Stock-Crash-Early-Warning-System/
 ├── python notebook scripts/
       ├──01_StockData_Modeling_XGBoost.ipynb        # Data collection + predictive modeling
       ├── 02_NewsScraping_SentimentScoring.ipynb    # News extraction + sentiment computation
@@ -93,22 +93,20 @@ Built with **Power BI**, this dashboard highlights:
 ```
 ---
 
-## 📜 License & Usage
+## License & Usage
 
 This project is licensed under the **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License**.
 
-> ⚠️ This repository is for demonstration purposes only. No reuse, modification, or redistribution is permitted without **explicit permission**.
+> This repository is for demonstration purposes only. No reuse, modification, or redistribution is permitted without **explicit permission**.
 
 View full terms in [LICENSE.md](./LICENSE.md) or [on Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-© Ramya Vijayalayan, 2025
+© Ramya V, 2025
 
 ---
-## 📬 Author & Contact Info
+## ✨ Author & Contact info 
 
-For project insights or review requests:
+Created by Ramya Vijayalayan as a portfolio project  
 
-**Ramya Vijayalayan**  
-📧 [vrmya2510@gmail.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/ramya-vijayalayan-9a51b2289)
+
 
