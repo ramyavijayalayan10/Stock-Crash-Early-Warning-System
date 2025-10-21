@@ -88,8 +88,8 @@ Stock-Crash-Early-Warning-System/
       ├──Daily_Sentiment_Data_for_Stocks.csv
       ├──News_Headlines_Data.csv
 ├── notebook_scripts/
-      ├──01_StockData_Modeling_XGBoost.ipynb        # Data collection + predictive modeling
-      ├── 02_NewsScraping_SentimentScoring.ipynb    # News extraction + sentiment computation
+      ├── 01_Model_Building.ipynb        # Data collection + predictive modeling
+      ├── 02_Web_Scrapper.ipynb    # News extraction + sentiment computation
 ├── dashboard-preview/                              # Power BI report snapshot
 ├── requirements.txt                               # Package dependencies
 ├── LICENSE.md                                     # Attribution & usage guidelines
