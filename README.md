@@ -65,7 +65,7 @@ Alerts are triggered when:
 ## 🚀 Results preview
 
 [Stock Crash Early Warning Alerting Dashboard](./dashboard-preview/Stock%20Crash%20Early%20Warning%20System%20Report.png)  
-> For python scripts and dashboard access, refer to the **google drive** link provided in the **resume**
+> For dashboard access, refer to the **google drive** link provided in the **resume**
 ---
 
 ## Dashboard Features
